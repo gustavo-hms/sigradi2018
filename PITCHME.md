@@ -30,7 +30,7 @@ lado = 2.cm
 rectangle width: lado, length: lado, rotation: [0,0,45.degrees]
 ```
 
----?image=assets/img/bg/black.jpg&position=right&size=50% 100%
+---
 
 @snap[west split-screen-img]
 ![](assets/img/Exercicio1.png)
