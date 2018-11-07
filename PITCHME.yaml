@@ -1,0 +1,4 @@
+theme: simple
+theme-override: assets/css/PITCHME.css
+layout: center
+transition: none
