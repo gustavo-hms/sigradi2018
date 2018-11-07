@@ -1,6 +1,6 @@
 ---?image=assets/img/bg/orange.jpg&size=cover
 
-# @color[white](Linguagens de programação e cognição humana)
+## @color[white](Linguagens de programação e cognição humana)
 
 ---
 
