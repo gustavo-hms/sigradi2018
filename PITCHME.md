@@ -25,14 +25,15 @@ rectangle width: lado, length: lado
 
 ---?color=black
 
+@size[0.5em](
 ```ruby
 lado = 2.cm
 rectangle width: lado, length: lado, rotation: [0,0,45.degrees]
 ```
+)
 
----
+---?color=white
 
-@snap[east span-40]
 ![](assets/img/Exercicio1.png)
 @snapend
 
