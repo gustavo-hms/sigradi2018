@@ -32,14 +32,16 @@ rectangle width: lado, length: lado, rotation: [0,0,45.degrees]
 
 ---
 
-@snap[west split-screen-img]
+@snap[west span-40]
 ![](assets/img/Exercicio1.png)
 @snapend
 
-@snap[east split-screen-byline]
+@snap[east span-60]
+
 ```ruby
 lado = 2.cm
 rectangle width: lado, length: lado
 rectangle width: lado, length: lado, rotation: [0,0,45.degrees]
 ```
+
 @snapend
